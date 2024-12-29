@@ -1,0 +1,14 @@
+Ali has created an account
+Nasir has created an account
+Hussain has created an account
+Syed Muhammad Ali Kazmi has created an account
+Ali has created an account
+Ameer has created an account
+aman has created an account
+ali has created an account
+kasim has created an account with balance : 0
+The ali has made a deposit which is  1000 and the new balance is :1690 
+qasim has created an account with balance : 0
+The qasim has made a deposit which is  1000 and the new balance is :1690 
+The qasim has made a withdrawl which is  1200 and now the new balance is :490 
+The qasim has made a deposit which is  1000 and the new balance is : 1690 
