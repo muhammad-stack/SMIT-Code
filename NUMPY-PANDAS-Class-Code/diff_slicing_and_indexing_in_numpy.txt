@@ -1,0 +1,3 @@
+What dimension is the array the answer
+must be of that dimension if not 
+then that is an index
